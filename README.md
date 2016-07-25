@@ -31,6 +31,8 @@
 ```
 Now visit http://localhost:3000 
 
+Use `sysadmin@doctor.io` with password `Doctor!23` to login. Visit [http://localhost:3000](http://localhost:3000) to navigate the docs.
+
 ## Organization
 * Documents are organized under Categories. 
 * Login to the dashboard
